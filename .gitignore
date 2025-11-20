@@ -1,0 +1,46 @@
+# IDE specific files
+.idea/
+
+# Object files
+*.o
+
+# Executable files
+add_func
+add_funct
+case_to_CASE
+compare
+compare_str
+concatenate_str
+copy_registers
+count10
+count_char
+counter
+divideprint
+dowhile
+echo
+even
+factorial
+fib
+fibonacci
+hello
+ifelse
+max
+max_array
+min_array
+moveprint
+mult_table
+multiplyprint
+palindrome
+print
+print_cmd_arg
+program
+read_stdin
+recursive_factorial_function
+recursive_fibonacci
+reversestring
+storeload
+subtractprint
+sum_print
+sum100
+swap
+while
