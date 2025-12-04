@@ -25,8 +25,8 @@ _start:
     syscall
     mov rcx, rax
 
-    lea rsi, [rel stdin]
-    lea rdi, [rel arr]
+    lea rsi, [rel stdin]    ;source
+    lea rdi, [rel arr]      ;destination
 
 .copy_loop:
     test rcx, rcx
